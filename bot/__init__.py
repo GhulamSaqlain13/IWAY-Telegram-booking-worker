@@ -1,0 +1,1 @@
+"""IWAY Telegram booking worker."""
